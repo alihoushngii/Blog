@@ -1,0 +1,2 @@
+# Blog
+simple personal theme
